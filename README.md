@@ -2,7 +2,7 @@
 
 *Precise action guidance with image-based keypoint affordance conditioned on language instructions.*
 
-[[Project Page](https://robo-point.github.io)] [[Demo](https://e99d8effed12219368.gradio.live)] [[Data](#prepare-data)] [[Weights](#model-zoo)]
+[[Project Page](https://robo-point.github.io)] [[Demo](https://007e03d34429a2517b.gradio.live/)] [[Data](#prepare-data)] [[Weights](#model-zoo)]
 
 **RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics** [[Paper](https://arxiv.org/pdf/2406.10721)] <br>
 [Wentao Yuan](https://wentaoyuan.github.io), [Jiafei Duan](https://duanjiafei.com), [Valts Blukis](https://www.cs.cornell.edu/~valts), [Wilbert Pumacay](https://wpumacay.github.io), [Ranjay Krishna](https://ranjaykrishna.com), [Adithya Murali](http://adithyamurali.com), [Arsalan Mousavian](https://cs.gmu.edu/~amousavi), [Dieter Fox](https://homes.cs.washington.edu/~fox)
